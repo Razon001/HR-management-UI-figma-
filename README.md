@@ -9,3 +9,6 @@ A responsive UI for HR management
 
 #Live Links
 https://www.figma.com/proto/0N3KtvgaWFy1swbQmRiKEk/HR-management-Dashboard?node-id=0-1&t=1SwxWPO1Veqzdtzu-1
+
+#work in progress
+
